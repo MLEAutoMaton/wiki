@@ -6,12 +6,12 @@ site_url: https://oi-wiki.org
 strict: true
 
 # Repository
-repo_name: '24OI/OI-wiki'
-repo_url: 'https://github.com/24OI/OI-wiki'
+repo_name: 'MLEAutoMaton/wiki'
+repo_url: 'https://github.com/MLEAutoMaton/wiki'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2019 OI Wiki Team'
+copyright: 'Copyright &copy; 2016 - 2020 MLEAutoMaton'
 
 # Contents
 nav:
@@ -146,7 +146,6 @@ nav:
       - STL 简介: ds/stl.md
       - vector: ds/stl/vector.md
       - priority_queue: ds/stl/priority_queue.md
-      - map: ds/stl/map.md
       - bitset: ds/stl/bitset.md
     - pb_ds:
       - pb_ds 简介: ds/pb-ds/index.md
