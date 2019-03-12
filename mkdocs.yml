@@ -6,12 +6,12 @@ site_url: https://oi-wiki.org
 strict: true
 
 # Repository
-repo_name: 'MLEAutoMaton/wiki'
-repo_url: 'https://github.com/MLEAutoMaton/wiki'
+repo_name: '24OI/OI-wiki'
+repo_url: 'https://github.com/24OI/OI-wiki'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2020 MLEAutoMaton'
+copyright: 'Copyright &copy; 2016 - 2020 OI Wiki Team'
 
 # Contents
 nav:
